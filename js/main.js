@@ -75,8 +75,8 @@
         $('html, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
         return false;
     });
-    $('.donwloadBtn').on('click', () => {
-        window.open("https://github.com/HovsepShhakaryan/mycv/raw/master/Resume%20Hovsep%20Shakaryan.pdf")
-    });
+    // $('.donwloadBtn').on('click', () => {
+    //     window.open("https://github.com/HovsepShhakaryan/mycv/raw/master/Resume%20Hovsep%20Shakaryan.pdf")
+    // });
 })(jQuery);
 
