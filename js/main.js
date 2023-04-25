@@ -76,7 +76,7 @@
         return false;
     });
     $('.donwloadBtn').on('click', () => {
-        window.open("")
+        window.open("https://github.com/HovsepShhakaryan/mycv/raw/master/Resume%20Hovsep%20Shakaryan.pdf")
     });
 })(jQuery);
 
