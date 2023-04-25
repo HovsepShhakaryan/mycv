@@ -76,7 +76,7 @@
         return false;
     });
     $('.donwloadBtn').on('click', () => {
-        window.open("https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg")
+        window.open("https://github.com/HovsepShhakaryan/mycv/blob/master/Resume%20Hovsep%20Shakaryan.pdf")
     });
 })(jQuery);
 
